@@ -1,0 +1,131 @@
+TRUE,PRED,
+"Findings
+Thorax
+The cardiovascular structures are normal. The lungs are normal. No pulmonary masses, lymphadenopathy, or mediastinal masses are noted. The esophagus is within normal limits. The pleural space is normal.
+
+Musculoskeletal
+There are minor degenerative changes noted in the knees. There is degenerative joint disease affecting the shoulder joints but no evidence of incongruity. No fractures are noted. The spine is radiographically normal. There are mild degenerative changes noted in the hips. 
+
+Abdomen
+There is minor distension of the stomach. There is no evidence of mass or mass effect within the abdomen. The liver and spleen appear normal in size and structure. The urinary tract is normal. The small intestines appear normal.
+
+Summary/Recommendations
+Normal thorax and abdomen. Degenerative changes are evident in the knees and mild changes in the shoulders and hips. Consider physical therapy and follow up radiographs if symptoms persist.","Findings
+Thorax
+No abnormalities are seen in the cardiovascular structures and lungs. The esophagus and pleural space are normal. No pulmonary or mediastinal masses or lymphadenopathy are identified. 
+
+Musculoskeletal
+Minor degenerative changes are observed in the knee joints. Degenerative joint disease is noted in the shoulders. There are no fractures. The spine appears normal radiographically. Mild degenerative changes are noted in the hip joints.
+
+Abdomen
+The stomach is mildly distended. The abdominal organs including liver and spleen show no signs of masses or abnormalities. The urinary tract and small intestines appear normal.
+
+Summary/Recommendations
+No abnormalities in the thorax and abdomen. Degenerative changes are present in the knee, shoulder, and hip joints. Physical therapy is recommended, and repeat radiographs may be required if symptoms continue.",EQUAL
+"Findings
+Thorax
+The cardiovascular structures show mild atherosclerosis. No pulmonary masses are noted. The esophagus is within normal limits. The pleural space shows minor effusion.
+
+Musculoskeletal
+There are mild degenerative changes noted in the spine. The joints appear normal. No fractures are noted. 
+
+Abdomen
+The liver is enlarged. There is no evidence of mass or mass effect within the abdomen. The spleen appears normal. The urinary tract is normal. The small intestines appear normal.
+
+Summary/Recommendations
+Evidence of mild atherosclerosis in the cardiovascular structures. Mild degenerative changes are seen in the spine. Enlarged liver noted - recommend further tests to determine the cause. ","Findings
+Thorax
+Mild atherosclerotic changes are observed in the cardiovascular structures. There are signs of chronic bronchitis in the lungs. The pleural space shows a minor effusion. No pulmonary masses are found.
+
+Musculoskeletal
+Mild degenerative changes are seen in the spine. The joints appear to be in normal condition with no fractures noted.
+
+Abdomen
+An enlarged liver is noted. No abdominal mass or mass effect is seen. The spleen and urinary tract appear normal. The small intestines also appear normal.
+
+Summary/Recommendations
+Chronic bronchitis and mild atherosclerosis are noted. Degenerative changes are seen in the spine. The liver is enlarged, which is typical for this breed",EQUAL
+"Thorax
+The cardiovascular structures are normal. A well-defined, spherical pulmonary mass is seen in the left upper lobe. No mediastinal masses or lymphadenopathy are noted. The esophagus is within normal limits. There is a moderate right-sided pleural effusion.
+
+Musculoskeletal
+There are no degenerative changes noted in the joints or spine. No fractures are noted.
+
+Abdomen
+The liver, spleen, and urinary tract appear normal in size and structure. The small intestines appear normal. There is no evidence of mass or mass effect within the abdomen.
+
+Summary/Recommendations
+A pulmonary mass in the left upper lobe and a moderate right-sided pleural effusion are noted. No abnormalities are seen in the musculoskeletal system and abdomen. Further tests, such as a biopsy of the lung mass and analysis of the pleural fluid, are recommended to determine the nature of these findings.","Thorax
+No abnormalities are seen in the cardiovascular structures. There is a spherical pulmonary mass located in the left upper lobe. No evidence of mediastinal masses or lymphadenopathy. The esophagus appears normal. A moderate pleural effusion is observed on the right side.
+
+Summary/Recommendations
+Findings include a pulmonary mass in the left upper lobe and a moderate pleural effusion on the right side.  Further investigations, such as a biopsy of the pulmonary mass and pleural fluid analysis, are recommended.",EQUAL
+"Findings
+Thorax
+The cardiovascular structures are normal. The lungs are clear with no evidence of pulmonary masses. No mediastinal masses or lymphadenopathy are noted. The esophagus is within normal limits. There is a moderate right-sided pleural effusion.
+
+Musculoskeletal
+There are minor degenerative changes noted in the spine. No fractures are noted. The joints appear normal.
+
+Abdomen
+The liver, spleen, and urinary tract appear normal in size and structure. The small intestines appear normal. There is no evidence of mass or mass effect within the abdomen.
+
+Summary/Recommendations
+A moderate right-sided pleural effusion is noted. No abnormalities are seen in the lungs, musculoskeletal system and abdomen. Further tests, such as analysis of the pleural fluid, are recommended to determine the cause of the effusion.","Findings
+Thorax
+No abnormalities are seen in the cardiovascular structures. There is a small, irregular pulmonary mass seen in the right lower lobe. No evidence of mediastinal masses or lymphadenopathy. The esophagus appears normal. A moderate pleural effusion is observed on the right side.
+
+Musculoskeletal
+Minor degenerative changes are observed in the spine. No fractures are seen, and the joints appear normal. 
+
+Abdomen
+The liver, spleen, urinary tract, and small intestines appear normal with no signs of mass or abnormalities.
+
+Summary/Recommendations
+Findings include a small pulmonary mass in the right lower lobe and a moderate pleural effusion on the right side. The musculoskeletal system and abdomen appear normal. Further investigations, such as a biopsy of the pulmonary mass and pleural fluid analysis, are recommended.",DIFFERENT
+"Findings
+Thorax
+The cardiovascular structures are normal. The lungs are clear with no evidence of pulmonary masses. No mediastinal masses or lymphadenopathy are noted. The esophagus is within normal limits. There is a moderate right-sided pleural effusion.
+
+Musculoskeletal
+There are minor degenerative changes noted in the spine. No fractures are noted. The joints appear normal.
+
+Abdomen
+The liver, spleen, and urinary tract appear normal in size and structure. The small intestines appear normal. There is no evidence of mass or mass effect within the abdomen.
+
+Summary/Recommendations
+A moderate right-sided pleural effusion is noted. No abnormalities are seen in the lungs, musculoskeletal system and abdomen. Further tests, such as analysis of the pleural fluid, are recommended to determine the cause of the effusion.","Findings
+Thorax
+There are signs of mild atherosclerosis in the cardiovascular structures. A large irregular mass is noted in the left lung. No pleural effusion is noted. The esophagus appears dilated.
+
+Musculoskeletal
+Severe degenerative changes are observed in the spine with presence of osteophytes. Multiple fractures are seen in the ribs.
+
+Abdomen
+There is an enlarged liver with irregular margins. The spleen and urinary tract appear normal. The small intestines show signs of inflammation.
+
+Summary/Recommendations
+Findings include a large mass in the left lung, mild atherosclerosis, dilated esophagus, severe spinal degeneration, rib fractures, and an enlarged liver. Further investigations are recommended to confirm these findings and determine the appropriate course of treatment.",DIFFERENT
+"Findings
+Thorax
+The cardiovascular structures are normal. The lungs are clear with no evidence of pulmonary masses. No mediastinal masses or lymphadenopathy are noted. The esophagus is within normal limits. There is a moderate right-sided pleural effusion.
+
+Musculoskeletal
+There are minor degenerative changes noted in the spine. No fractures are noted. The joints appear normal.
+
+Abdomen
+The liver, spleen, and urinary tract appear normal in size and structure. The small intestines appear normal. There is no evidence of mass or mass effect within the abdomen.
+
+Summary/Recommendations
+A moderate right-sided pleural effusion is noted. No abnormalities are seen in the lungs, musculoskeletal system and abdomen. Further tests, such as analysis of the pleural fluid, are recommended to determine the cause of the effusion.","Findings
+Thorax
+The cardiovascular structures are within normal limits. A small pulmonary mass is seen in the right lower lobe. No mediastinal masses or lymphadenopathy is observed. The esophagus appears normal. A moderate pleural effusion is identified on the right side.
+
+Musculoskeletal
+Minor degenerative changes are observed in the spine. There are no fractures seen, and the joints appear normal. 
+
+Abdomen
+The liver, spleen, urinary tract, and small intestines appear normal with no signs of mass or abnormalities.
+
+Summary/Recommendations
+Findings include a small pulmonary mass in the right lower lobe and a moderate pleural effusion on the right side. The musculoskeletal system and abdomen appear normal. Further investigations, such as a biopsy of the pulmonary mass and pleural fluid analysis, are recommended.",
